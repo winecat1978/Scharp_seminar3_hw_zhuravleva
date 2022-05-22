@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\bin\Debug\net6.0\No21.exe
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\bin\Debug\net6.0\No21.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\bin\Debug\net6.0\No21.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\bin\Debug\net6.0\No21.dll
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\bin\Debug\net6.0\No21.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.dll
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\refint\No21.dll
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\No21.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\CSharp_sem3_hw\No21\obj\Debug\net6.0\ref\No21.dll
